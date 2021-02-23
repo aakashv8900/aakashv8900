@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi! I'm Aakash Verma<img src="wave.gif" width="30px"></h1>
+<h3 align="center">Kaggle Expert, Computer Science Undergrad, Deep Learning Enthusiast</h3>
 
 <!--
 **aakashv8900/aakashv8900** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
