@@ -4,7 +4,7 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=aakashv8900" alt="aakashv8900" />
 <br/>
-<a href="www.linkedin.com/in/heyaakash"><img src="https://img.shields.io/badge/-aakashv8900-blue?style=curved-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/heyaakash"></a>
+<a href="https://www.linkedin.com/in/heyaakash/"><img src="https://img.shields.io/badge/-aakashv8900-blue?style=curved-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/heyaakash/"></a>
 <a href="mailto:aakashv.8292@gmail.com"><img src="https://img.shields.io/badge/-aakashv.8292@gmail.com-c14438?style=curved-square&logo=Gmail&logoColor=white&link=mailto:aakashv.8292@gmail.com"></a>
 </p>
 
