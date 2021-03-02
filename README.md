@@ -15,6 +15,11 @@
 </p>
 <br>
 
+<h3 align="left">⭐ Connect with me:</h3>
+<p align="left"> 
+<a href="https://www.linkedin.com/in/heyaakash/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="heyaakash" height="50" width="50" /></a>
+</p>
+
 <!--
 **aakashv8900/aakashv8900** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
