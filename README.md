@@ -8,6 +8,13 @@
 <a href="mailto:aakashv.8292@gmail.com"><img src="https://img.shields.io/badge/-aakashv.8292@gmail.com-c14438?style=curved-square&logo=Gmail&logoColor=white&link=mailto:aakashv.8292@gmail.com"></a>
 </p>
 
+<br>
+
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=aakashv8900&show_icons=true&locale=en" alt="aakashv8900" /></p>
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakashv8900&layout=compact&langs_count=8" alt="aakashv8900" />
+</p>
+<br>
+
 <!--
 **aakashv8900/aakashv8900** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
