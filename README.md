@@ -11,8 +11,7 @@
 <br>
 
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=aakashv8900&show_icons=true&locale=en" alt="aakashv8900" /></p>
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakashv8900&layout=compact&langs_count=8" alt="aakashv8900" />
-</p>
+
 <br>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aakashv8900&" alt="aakashv8900" /></p>
