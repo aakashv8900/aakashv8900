@@ -1,5 +1,5 @@
 <h1 align="center">Hi! I'm Aakash Verma<img src="wave.gif" width="30px"></h1>
-<h3 align="center">Kaggle EXpert, BCA Student, Data Science and Machine Learning Enthusiast</h3>
+<h3 align="center">Kaggle Expert, BCA Student, Data Science and Machine Learning Enthusiast</h3>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=aakashv8900" alt="aakashv8900" />
