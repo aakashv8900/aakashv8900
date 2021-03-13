@@ -1,8 +1,9 @@
 <h1 align="center">Hi! I'm Aakash Verma<img src="wave.gif" width="30px"></h1>
 <h3 align="center">Kaggle Expert, BCA Student, Data Science and Machine Learning Enthusiast</h3>
 
-<p align="center">
+
 <img src="https://komarev.com/ghpvc/?username=aakashv8900" alt="aakashv8900" />
+<a href="https://www.kaggle.com/aakashverma8900"><img src="https://img.shields.io/badge/-Kaggle-blue?style=curved-square&link=https://www.kaggle.com/aakashverma8900"></a>
 <br/>
 <a href="https://www.linkedin.com/in/heyaakash/"><img src="https://img.shields.io/badge/-heyaakash-blue?style=curved-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/heyaakash/"></a>
 <a href="mailto:aakashv.8292@gmail.com"><img src="https://img.shields.io/badge/-aakashv.8292@gmail.com-c14438?style=curved-square&logo=Gmail&logoColor=white&link=mailto:aakashv.8292@gmail.com"></a>
