@@ -15,7 +15,7 @@
 
 <br>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aakashv8900&" alt="aakashv8900" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aakashv8900" alt="aakashv8900" /></p>
 
 <!--
 **aakashv8900/aakashv8900** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
