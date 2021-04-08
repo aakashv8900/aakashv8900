@@ -1,4 +1,5 @@
 <h1 align="center">Hi! I'm Aakash Verma<img src="wave.gif" width="30px"></h1>
+<h2 align="center">About Me!🔭</h2>
 <h3 align="center"><img src="bolt.gif" width="25px">Kaggle Expert, BCA Student, Data Science and Machine Learning Enthusiast</h3>
 
 <p align="center">
