@@ -3,16 +3,12 @@
 <h3 align="center"><img src="bolt.gif" width="25px">Kaggle Expert, BCA Student, Data Science and Machine Learning Enthusiast</h3>
 
 <p align="right">
-<img src="https://komarev.com/ghpvc/?username=aakashv8900" alt="aakashv8900" />
-<a href="https://www.kaggle.com/aakashverma8900"><img src="https://img.shields.io/badge/-Kaggle-blue?style=curved-square&link=https://www.kaggle.com/aakashverma8900"></a>
+<img align="right" src="https://komarev.com/ghpvc/?username=aakashv8900" alt="aakashv8900" />
+<a align="right" href="https://www.kaggle.com/aakashverma8900"><img src="https://img.shields.io/badge/-Kaggle-blue?style=curved-square&link=https://www.kaggle.com/aakashverma8900"></a>
 <br/>
-<a href="https://www.linkedin.com/in/heyaakash/"><img src="https://img.shields.io/badge/-heyaakash-blue?style=curved-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/heyaakash/"></a>
-<a href="mailto:aakashv.8292@gmail.com"><img src="https://img.shields.io/badge/-aakashv.8292@gmail.com-c14438?style=curved-square&logo=Gmail&logoColor=white&link=mailto:aakashv.8292@gmail.com"></a>
-  
- 
-<br>
-<p align="left"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aakashv8900" alt="aakashv8900" /></p>
-<br>
+<a align="right" href="https://www.linkedin.com/in/heyaakash/"><img src="https://img.shields.io/badge/-heyaakash-blue?style=curved-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/heyaakash/"></a>
+<a align="right" href="mailto:aakashv.8292@gmail.com"><img src="https://img.shields.io/badge/-aakashv.8292@gmail.com-c14438?style=curved-square&logo=Gmail&logoColor=white&link=mailto:aakashv.8292@gmail.com"></a>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aakashv8900" alt="aakashv8900" />
 </p>
 
 <br>
