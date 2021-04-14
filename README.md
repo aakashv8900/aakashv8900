@@ -10,10 +10,10 @@
 <a align="right" href="mailto:aakashv.8292@gmail.com"><img src="https://img.shields.io/badge/-aakashv.8292@gmail.com-c14438?style=curved-square&logo=Gmail&logoColor=white&link=mailto:aakashv.8292@gmail.com"></a>
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aakashv8900" alt="aakashv8900" />
 </p>
-
 <br>
 <p align="center"><img src="violine.gif" height=300 width="100%" /></p>
 <br>
+
 
 
 <!--
