@@ -3,7 +3,7 @@
 <h3 align="center"><img src="bolt.gif" width="25px">Kaggle Expert, BCA Student, Data Science and Machine Learning Enthusiast</h3>
 
 <p align="center">
-<img align="center" src="https://komarev.com/ghpvc/?username=aakashv8900" alt="aakashv8900" />
+<a align="center"><img src="https://komarev.com/ghpvc/?username=aakashv8900" alt="aakashv8900" /></a>
 <a align="center" href="https://www.kaggle.com/aakashverma8900"><img src="https://img.shields.io/badge/-Kaggle-blue?style=curved-square&link=https://www.kaggle.com/aakashverma8900"></a>
 <br/>
 <a align="center" href="https://www.linkedin.com/in/heyaakash/"><img src="https://img.shields.io/badge/-heyaakash-blue?style=curved-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/heyaakash/"></a>
