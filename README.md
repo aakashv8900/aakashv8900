@@ -12,7 +12,7 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aakashv8900" alt="aakashv8900" />
 </p>
 <p align="center">
-<img align="center" src="https://kaggle-summary-card.herokuapp.com/api?user=aakashverma8900&extend" alt="aakashv8900" />
+<img align="center" src="https://kaggle-summary-card-details.herokuapp.com/api?user=aakashverma8900&extend" alt="aakashv8900" />
 </p>
 <p align="center">
 <img src="violine.gif" height=300 width="100%" />
