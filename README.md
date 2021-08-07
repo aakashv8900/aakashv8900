@@ -9,9 +9,6 @@
 <a align="center" href="mailto:aakashv.8292@gmail.com"><img src="https://img.shields.io/badge/-aakashv.8292@gmail.com-c14438?style=curved-square&logo=Gmail&logoColor=white&link=mailto:aakashv.8292@gmail.com"></a>
 <p>
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aakashv8900" alt="aakashv8900" />
-</p>
-<p align="center">
 <img align="center" src="https://kaggle-summary-card-details.herokuapp.com/api?user=aakashverma8900&extend" alt="aakashv8900" />
 </p>
 <p align="center">
